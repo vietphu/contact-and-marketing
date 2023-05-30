@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Contact and marketing Appstore
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by dinhvietphu@gmail.com
+description: Mobile app & Game developer
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/contact-and-marketing"
@@ -14,7 +14,7 @@ baseurl: "/contact-and-marketing"
 username: Contact and marketing Appstore - dinhvietphu@gmail.com
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Manager of Game & App Development team in Da Nang City
 # email: Your E-Mail address for the email button.
 email: dinhvietphu@gmail.com
 # For every social button you want to display, set your username or userid
